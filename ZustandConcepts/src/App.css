@@ -23,3 +23,15 @@ body{
 .form>input{
   padding: 2px;
 }
+.list{
+  width: 25%;
+}
+.course-item{
+  padding: 10px 5px;
+  margin: 10px 0px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+align-items: center;
+  border-radius: 5px;
+}
